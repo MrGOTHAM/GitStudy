@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         Toast.makeText(this,"这里是main分支！！",Toast.LENGTH_SHORT).show()
         Toast.makeText(this,"这是main分支的第四次提交！！",Toast.LENGTH_SHORT).show()
+        Toast.makeText(this,"AAA",Toast.LENGTH_SHORT).show()
     }
 }
